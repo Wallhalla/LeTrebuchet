@@ -1,7 +1,7 @@
 #pragma once
 #include "Resources.h"
-//#include "..\soil\Simple OpenGL Image Library\src\SOIL.h"
-#include "../ThirdParty/soil/Simple OpenGL Image Library/src/SOIL.h"
+
+#include "Simple OpenGL Image Library/src/SOIL.h"
 
 void SetupRenderState();
 

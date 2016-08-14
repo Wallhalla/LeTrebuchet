@@ -9,7 +9,7 @@
 // Includes für OpenGL
 #include <GL/gl.h>  // OpenGL Base Library
 #include <GL/glu.h> // OpenGL Utility Library
-#include <GL/freeglut.h>
+#include "FreeGlut/include/GL/freeglut.h"
 
 
 
